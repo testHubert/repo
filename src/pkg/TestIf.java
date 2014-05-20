@@ -2,7 +2,7 @@ package pkg;
 
 public class TestIf {
 	public static void main(String[] args) {
-		int zmienna = 5;
+		int zmienna = 16;	// zmiana z 5 na 16
 		if (zmienna % 2 == 0)
 			System.out.println("Liczba parzysta");
 		else
